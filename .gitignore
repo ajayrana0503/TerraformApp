@@ -1,0 +1,23 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Archive files
+*.zip
+
+# Log files
+*.log
+
+# Ignore local configuration files
+terraform.tfvars
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Docker files
+Dockerfile

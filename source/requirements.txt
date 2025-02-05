@@ -1,0 +1,7 @@
+librosa
+numpy
+transformers
+torch
+torchaudio
+nltk
+boto3
